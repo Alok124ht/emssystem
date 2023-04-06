@@ -1,0 +1,27 @@
+.employee-card {
+    display: flex;
+    align-items: center;
+    padding: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .profile-pic img {
+    width: 80px;
+    height: 80px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin-right: 16px;
+  }
+  
+  .employee-info h2 {
+    margin-bottom: 8px;
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .employee-info p {
+    font-size: 16px;
+    margin-bottom: 4px;
+  }
+  

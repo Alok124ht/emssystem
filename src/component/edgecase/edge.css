@@ -1,0 +1,19 @@
+.edge {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .edge p {
+    margin: 0;
+    font-size: 16px;
+  }
+  
+  .edge.presence {
+    color: green;
+  }
+  
+  .edge.absence {
+    color: red;
+  }
+  
